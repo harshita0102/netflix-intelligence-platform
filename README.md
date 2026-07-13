@@ -148,6 +148,32 @@ python3 sql/sql_analysis.py
 - TV-MA is the most frequent content rating.
 
 ---
+# Dashboard
+
+![Dashboard](images/dashboard.png)
+
+# Recommendation System
+
+![Recommendation](images/recommendation.png)
+
+# Exploratory Data Analysis
+
+![EDA](images/eda.png)
+
+# Sentiment Analysis
+
+![Sentiment](images/sentiment.png)
+
+# graphs
+
+![graph](images/graph.png)
+![graphs](images/graphs.png)
+
+# SQL Queries
+
+![sql](images/sql.png)
+![queries](images/queries.png)
+
 
 ## 👩‍💻 Author
 

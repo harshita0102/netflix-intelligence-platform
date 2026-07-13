@@ -1,5 +1,7 @@
 venv/
-.ipynb_checkpoints/
 __pycache__/
+.ipynb_checkpoints/
 *.pyc
 .DS_Store
+models/
+dataset/netflix.db
